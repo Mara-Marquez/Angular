@@ -37,5 +37,11 @@ const {
 } =audioPlayer
 
 
-console.log(author)
+//console.log(author)
+
+//destructuracion de arreglos se hace lo mismo pero en  []
+
+const [,p2,p3,p4,p5='Not found']:string[]=['Goku','Milk','Vegeta','Crillin']
+//nomas hay q definir si hay uno 
+console.log(p5)
 export{};
