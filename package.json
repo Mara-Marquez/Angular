@@ -1,0 +1,13 @@
+
+{
+  "name": "typescript-intro",
+  "scripts": {
+    "dev":"vite",
+    "build":"tsc && vite build",
+    "preview":"vite preview"
+  },
+  "dependencies": {
+    "typescript": "~4.6.4",
+    "vite": "^4.5.14"
+  }
+}
